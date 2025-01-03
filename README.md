@@ -1,26 +1,38 @@
-# Superstore Project
+# Superstore Data Analysis and Dashboard Project
 
-## Overview
-This project involves analyzing and visualizing Superstore sales data. It includes data cleaning with SQL and dashboard creation in Excel.
+This project involves analyzing and visualizing Superstore sales data using SQL and Excel. The goal is to clean, analyze, and visualize the data to gain actionable insights for decision-making.
 
 ## Features
 - **Data Cleaning**: Removed duplicates, handled missing values, and ensured data integrity using SQL.
-- **Data Analysis**: Key metrics such as total sales, profit, and regional performance were calculated.
-- **Interactive Dashboard**: Created in Excel with visualizations like pie charts, combo charts, and KPIs.
+- **Data Analysis**: Key metrics such as total sales, profit, and regional performance calculated.
+- **Interactive Dashboard**: Created in Excel with visualizations like combo charts, pie charts, and KPIs.
 
 ## Tools Used
 - SQL
 - Excel
+- Kaggle (Dataset source)
 
 ## Dataset
-- **Source**: Kaggle
-- **Description**: Superstore sales data containing transactions, customer information, and regional performance.
+- **Source**: [Kaggle Superstore Dataset](https://www.kaggle.com/)
+- **Description**: Sales data including transactions, customer details, and regional performance metrics.
+
+- ## Media
+
+### Dashboard Preview
+![Dashboard Screenshot](media/dashboard_screenshot.png)
+
+### Walkthrough Video
+[Click here to watch the walkthrough video](media/walkthrough_video.mp4)
 
 ## How to Use
-1. Open the SQL scripts to see data-cleaning queries.
-2. Explore the Excel file to view the dashboard.
+1. Open the SQL script in your SQL editor to view or run the data-cleaning queries.
+2. Open the Excel file to interact with the dashboard.
+3. Explore the media folder for a walkthrough video or screenshots.
+
 
 ## Results
 - Total sales and profits by category.
-- Regional performance insights.
-- Key business metrics visualized interactively.
+- Regional performance analysis.
+- Top-performing products and customers.
+
+
