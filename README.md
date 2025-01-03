@@ -19,10 +19,12 @@ This project involves analyzing and visualizing Superstore sales data using SQL 
 - ## Media
 
 ### Dashboard Preview
-![Dashboard Screenshot](media/dashboard_screenshot.png)
+![Dashboard Screenshot](Media/Dashboard_image_1.png)
+![Dashboard Screenshot](Media/Dashboard_image_2.png)
+![Dashboard Screenshot](Media/Dashboard_image_3.png)
 
 ### Walkthrough Video
-[Click here to watch the walkthrough video](media/walkthrough_video.mp4)
+[Click here to watch the walkthrough video](Media/Dashboard_working.mp4)
 
 ## How to Use
 1. Open the SQL script in your SQL editor to view or run the data-cleaning queries.
